@@ -36,6 +36,27 @@ An **Online Test Portal** designed to assess users on various topics like **Reac
 
 ---
 
+### Theme Features
+
+ 
+- Seamlessly switch between Light and Dark modes with just a single click from the top menu.
+
+- The user can pick a quiz topic on the first screen, like JavaScript, React, or General Knowledge.
+
+- There will be a timer running when the quiz starts. If the timer finishes, the quiz will be stopped, and the user will be asked to see the result.
+
+- The template also supports three types of questions, MCQs, True/False, and MAQs.
+
+- The template allows for adding code snippets in questions. You can easily assess the users' programming knowledge and skills.
+
+- The template allows you to create questions with images to enhance user engagement.
+
+- Each question has a score. For example, a difficult question has 10 marks, and an easier one has 5.
+
+- The result screen shows how many questions the user attempted, how much he scored, how long it took, and whether he passed or failed.
+
+- In result screen user can see which question had the right answer and which was wrong. The user can find the correct answer in case of a wrong answer.
+  
 ## Installation and Setup
 
 ### Prerequisites
